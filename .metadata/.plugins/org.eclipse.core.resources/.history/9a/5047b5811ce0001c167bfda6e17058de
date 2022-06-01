@@ -1,0 +1,11 @@
+package com.wipro.velocity;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="user100")
+public class User {
+	
+
+}

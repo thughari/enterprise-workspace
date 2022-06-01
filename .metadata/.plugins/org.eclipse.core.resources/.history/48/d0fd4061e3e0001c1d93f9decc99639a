@@ -1,0 +1,10 @@
+package com.wipro.velocity;
+
+import java.util.Date;
+
+public class Candidate extends Person {
+
+	private Date joiningDate;
+    private String departmentName;
+    
+}

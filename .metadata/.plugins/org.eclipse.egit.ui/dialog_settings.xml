@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/thughari/Training.git"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="D:\training\.classpath\.git">
+			<item value="false"/>
+			<item value="Hari &lt;haribabutatikonda3@gmail.com&gt;"/>
+			<item value="main"/>
+			<item value="Hari &lt;haribabutatikonda3@gmail.com&gt;"/>
+			<item value="9a967fc657204b15ecd34834721cc53eaafafe82"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>

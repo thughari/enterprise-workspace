@@ -1,0 +1,20 @@
+package com.wipro.velocity;
+
+import java.util.Date;
+
+public class Candidate extends Person {
+
+	private Date joiningDate;
+    private String departmentName;
+    
+	public Candidate() {
+		super();
+	}
+	
+	public Candidate(String firstname, String lastname, Date jd, String deptName) {
+		super(firstname, lastname);
+		this.joiningDate=jd;
+		this.departmentName=deptName;
+	}
+    
+}

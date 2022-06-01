@@ -1,0 +1,20 @@
+package com.wipro.velocity;
+
+public class Person {
+
+	private Long personId;
+    private String firstname;
+    private String lastname;
+    
+	public Person() {
+
+	}
+
+	public Person( String firstname, String lastname) {
+		super();
+		
+		this.firstname = firstname;
+		this.lastname = lastname;
+	}
+    
+}
