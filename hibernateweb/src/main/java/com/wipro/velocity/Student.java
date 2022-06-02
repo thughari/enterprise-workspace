@@ -9,6 +9,8 @@ public class Student {
     private int age;
     private StudentClass studentClass; // component - has a relationship
     
+    public Student() {}
+    
 	public Student(String firstName, String lastName, String rollNo, int age, StudentClass studentClass) {
 		this.firstName = firstName;
 		this.lastName = lastName;
