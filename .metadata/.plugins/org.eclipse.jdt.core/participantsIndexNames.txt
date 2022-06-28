@@ -1,3 +1,7 @@
 INDEX VERSION 1.131
 D:\training\enterprise-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3922640445.index
 \hibernateweb\src\main\java
+D:\training\enterprise-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\80366154.index
+\springweb-mvc\src\main\java
+D:\training\enterprise-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\661221926.index
+\springweb-mvc\src\main\resources

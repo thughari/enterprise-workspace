@@ -240,4 +240,7 @@
 <uri name="javaee_5.xsd" uri="file:///D:/eclipse/configuration/org.eclipse.osgi/1099/0/.cp/catalog/javaee_5.xsd"/>
 <uri name="http://java.sun.com/xml/ns/javaee/web-facelettaglibary_2_0.xsd" uri="file:///D:/eclipse/configuration/org.eclipse.osgi/1099/0/.cp/catalog/web-facelettaglibrary_2_0.xsd"/>
 <uri name="http://java.sun.com/xml/ns/javaee/web-facelettaglibrary_2_0.xsd" uri="file:///D:/eclipse/configuration/org.eclipse.osgi/1099/0/.cp/catalog/web-facelettaglibrary_2_0.xsd"/>
+<public publicId="-//LOG4J//DTD LOG4J//EN" uri="file:///D:/eclipse/configuration/org.eclipse.osgi/1183/0/.cp/dtd/log4j-1.2.dtd"/>
+<public publicId="-//SPRING//DTD BEAN//EN" uri="platform:/plugin/org.springframework.beans/org/springframework/beans/factory/xml/spring-beans.dtd"/>
+<public publicId="-//SPRING//DTD BEAN 2.0//EN" uri="file:///D:/eclipse/configuration/org.eclipse.osgi/1204/0/.cp/org/springframework/beans/factory/xml/spring-beans-2.0.dtd"/>
 </catalog>

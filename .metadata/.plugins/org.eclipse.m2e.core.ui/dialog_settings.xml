@@ -26,6 +26,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.wipro.velocity.hibernateproject"/>
 			<item value="com.wipro.velocity"/>
 			<item value="com.wipro.velocity.hibernateweb"/>
 			<item value="com.wipro.velocity.hiberanatedemo"/>
@@ -34,6 +35,8 @@
 			<item value="com.wipro.velocity"/>
 		</list>
 		<list key="artifactId">
+			<item value="hibernate-project"/>
+			<item value="springweb-mvc"/>
 			<item value="hibernateweb"/>
 			<item value="hiberanate-demo"/>
 		</list>

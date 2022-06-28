@@ -1,8 +1,9 @@
-GitRepositoriesView.GitDirectories=D\:\\training\\.classpath\\.git;
-GitRepositoriesView.GitDirectories.relative=D\:\\training\\.classpath\\.git;
+GitRepositoriesView.GitDirectories=D\:\\training\\enterprise-workspace\\.git;D\:\\training\\.classpath\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;D\:\\training\\.classpath\\.git;
 RepositorySearchDialogDeepSearch=false
 RepositorySearchDialogSearchPath=D\:\\training\\enterprise-workspace
 RepositorySearchDialogSkipHidden=true
+core_autoIgnoreDerivedResources=false
 core_git_servers=
 core_ssh_default_agent=\\\\.\\pageant
 eclipse.preferences.version=1
